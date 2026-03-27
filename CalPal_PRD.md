@@ -1,8 +1,9 @@
 # CalPal — Product Requirements Document
-**版本：** v1.2
+**版本：** v1.3
 **日期：** 2026-03-27
 **作者：** Shawn
 **状态：** ✅ 已确认，可开始开发
+**配合文档：** CalPal_UI_SPEC.md / CalPal_SwiftUI_Guide.md
 
 ### 版本变更记录
 | 版本 | 日期 | 变更内容 |
@@ -10,6 +11,7 @@
 | v1.0 | 2026-03-27 | 初始正式版 |
 | v1.1 | 2026-03-27 | V1 移除 Google Calendar；V1 移除 Claude API 意图解析；Claude API 保留框架占位 |
 | v1.2 | 2026-03-27 | V1 重定义为最小可用版：移除 Morning/Evening Review、iPad、习惯分析、CloudKit，同步保留本地 AI + Apple Calendar 核心闭环 |
+| v1.3 | 2026-03-27 | 新增 UI / SwiftUI 指导文档链接；界面实现统一收敛为系统风格主页 + Unified Split View |
 
 ---
 
@@ -208,6 +210,10 @@ CalPal/
 └── Resources/
     └── Info.plist
 ```
+
+**实现参考文档：**
+- `CalPal_UI_SPEC.md`：Paper 与视觉交互规范
+- `CalPal_SwiftUI_Guide.md`：SwiftUI 组件拆分、状态模型与页面实现建议
 
 ### 4.3 重要接口与类型
 

@@ -254,6 +254,9 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "CalPal 需要访问你的 Apple Calendar，用于读取、创建、修改和删除日程。";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "CalPal 需要使用麦克风来支持长按语音输入。";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "CalPal 需要语音识别权限，将你的语音转换成日程文本。";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -298,6 +301,9 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCalendarsFullAccessUsageDescription = "CalPal 需要访问你的 Apple Calendar，用于读取、创建、修改和删除日程。";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "CalPal 需要使用麦克风来支持长按语音输入。";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "CalPal 需要语音识别权限，将你的语音转换成日程文本。";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
