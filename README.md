@@ -145,4 +145,4 @@ This repository is being prepared for open source. Some product and implementati
 
 ## License
 
-License to be added.
+This project is licensed under the [MIT License](LICENSE) © 2026 Xuantong Yan.
