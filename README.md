@@ -6,6 +6,19 @@ CalPal turns a short voice or text request into a calendar action on top of Appl
 
 `voice / text input -> on-device intent parsing -> EventKit write -> confirmation when needed`
 
+## Preview
+
+<p align="center">
+  <img src="./docs/images/readme/dashboard.png" alt="CalPal dashboard preview from the iOS Simulator" width="32%" />
+  <img src="./docs/images/readme/smart-scheduling.png" alt="CalPal smart scheduling preview from the iOS Simulator" width="32%" />
+</p>
+
+<p align="center">
+  <strong>Dashboard</strong> shows the calendar-first timeline view.
+  <br />
+  <strong>Smart Scheduling</strong> shows the planning flow that turns natural language into an actionable calendar suggestion.
+</p>
+
 ## Status
 
 This repository currently contains:
