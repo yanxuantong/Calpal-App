@@ -9,14 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        switch AppLaunchMode.current {
-        case .dashboard:
-            ReadmeShowcaseView(mode: .dashboard)
-        case .smartScheduling:
-            ReadmeShowcaseView(mode: .smartScheduling)
-        case .none:
-            RootView()
-        }
+        RootView()
     }
 }
 

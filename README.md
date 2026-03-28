@@ -9,8 +9,8 @@ CalPal turns a short voice or text request into a calendar action on top of Appl
 ## Preview
 
 <p align="center">
-  <img src="./docs/images/readme/dashboard-brand.png" alt="CalPal dashboard preview shown inside a device frame" width="48%" />
-  <img src="./docs/images/readme/smart-scheduling-brand.png" alt="CalPal smart scheduling preview shown inside a device frame" width="48%" />
+  <img src="./docs/images/readme/dashboard.png" alt="CalPal dashboard preview from the iOS Simulator" width="32%" />
+  <img src="./docs/images/readme/smart-scheduling.png" alt="CalPal smart scheduling preview from the iOS Simulator" width="32%" />
 </p>
 
 <p align="center">
